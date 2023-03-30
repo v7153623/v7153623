@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shi<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=springboot&logoColor=#6DB33F"/></a>lds.io/badge/000000?style=plastic&logo=로고&logoColor=#6DB33F"/></a>
+<a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=Springboot&logoColor=#6DB33F"/></a>
 
 <!--
 **v7153623/v7153623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
