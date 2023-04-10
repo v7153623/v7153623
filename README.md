@@ -1,6 +1,10 @@
 ### Welcome to Linga_jang's GitHub! 👋
 
-
+<a href="https://www.instagram.com/linga_jang/">
+    <img 
+        src="http://img.shields.io/badge/Instagarm-222222?style=flat&logo=Instagram&link=https://www.instagram.com/linga_jang/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <hr/>
 
