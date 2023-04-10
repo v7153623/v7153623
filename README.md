@@ -5,6 +5,7 @@
 <a href="https://www.spring.io" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-white?style=plastic&logo=Springboot&logoColor=#6DB33F"/></a>
 <a href="https://www.spring.io" target="_blank"><img src="https://img.shields.io/badge/Spring-white?style=plastic&logo=Spring&logoColor=#6DB33F"/></a>
 <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/java-white?style=plastic&logo=java&logoColor=#6DB33F"/></a>
+<a href="https://www.spring.io" target="_blank"><img src="https://img.shields.io/badge/MySQL-white?style=plastic&logo=MySQL&logoColor=#4479A1"/></a>
 
 <!--
 **v7153623/v7153623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
