@@ -1,10 +1,15 @@
 ### Welcome to Linga_jang's GitHub! 👋
 
+![Linga's GitHub stats](https://github-readme-stats.vercel.app/api?username=v7153623&show_icons=true&theme=dark)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=v7153623)](https://solved.ac/v7153623)
+
 <a href="https://www.instagram.com/linga_jang/">
     <img 
         src="http://img.shields.io/badge/Instagarm-222222?style=flat&logo=Instagram&link=https://www.instagram.com/linga_jang/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
 
 <hr/>
 
