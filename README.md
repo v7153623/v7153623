@@ -4,6 +4,8 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=v7153623)](https://solved.ac/v7153623)
 
+[![RepomonRepoCard](https://repomon.kr/card/repo?repoId=302)](https://repomon.kr/repo/302)
+
 <a href="https://www.instagram.com/linga_jang/">
     <img 
         src="http://img.shields.io/badge/Instagarm-222222?style=flat&logo=Instagram&link=https://www.instagram.com/linga_jang/"
